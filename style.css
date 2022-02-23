@@ -110,18 +110,19 @@ p{
 .without-limit p {
     padding-bottom: 20px;
 }
-.global-community {
-    min-height: 350px;
-    padding: 100px 0;
-}
+
 .global-community{
     min-height: 350px;
     background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
     background-size: 250px;
     margin: 50px 0;
-    background-position: right;
+    background-position: right; 
+    padding: 100px 0;
 
+}
+.global-community p{
+    padding-bottom: 10px;
 }
 .contact {
     min-height: 500px;
