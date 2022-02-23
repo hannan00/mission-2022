@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+}
+h1{
+    font-size: 48px;
+}
+p{
+    font-family: Poppins;
+    font-size: 14px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 60%;
+}
+.header{
+    min-height: 550px;
+    padding-bottom: 50px;
+}
+.header p{
+    padding: 20px 0;
+}
+.header-title{
+    margin-top: 150px;
+    border-left: 4px solid #FF5959;
+    
+}
+.header-title h1{
+    font-family: Yeseva One;
+    color: #333;
+    padding-left: 10px;
+
+}
+.hightlight-color{
+    color: #FFAD5A;
+}
+.link-button{
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.mission {
+    min-height: 350px;
+    padding-bottom: 50px;
+}
+.mission h1 {
+    text-align: center;
+}
+.single-content {
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    border-radius: 20px;
+    padding: 20px 50px;
+}
+
+.single-content img {
+    width: 20%;
+}
+.content-bg1{
+    background:rgba(79, 157, 166, 10%);
+    
+}
+.content-bg2{
+    background:rgba(255, 89, 89, 10%);
+}
+.content-bg3{
+    background:rgba(255, 244, 214, 100%);
+}
